@@ -26,7 +26,8 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import cognizant from './company/cognizant.png';
-import LTIM from './company/LTIM.png'
+import LTIM from './company/LTIM.png';
+import EPAM from "./company/EPAM.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
@@ -66,6 +67,7 @@ export {
   starbucks,
   cognizant,
   LTIM,
+  EPAM,
   tesla,
   carrent,
   jobit,
